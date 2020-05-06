@@ -1632,6 +1632,7 @@ arr.sort(unstableSorting)
 
 上面代码中，排序结果是`spork`在`straw`前面，跟原始顺序相反，所以排序算法`unstableSorting`是不稳定的
 
+[<prev](./Day1.md) [next>](./Day3.md)
 
 
 

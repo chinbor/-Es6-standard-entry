@@ -1998,4 +1998,4 @@ with (MyClass.prototype) {
   foo(); // 2
 }
 ```
-
+[next>](./Day2.md)
